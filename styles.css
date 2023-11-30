@@ -7,7 +7,7 @@
 .container {
     width: 100%;
     height: 100vh;
-    background-image: url(/images/Bio.jpg);
+    background-image: url(Bio.jpg);
     background-position: cover;
     background-size: cover;
     padding: 0 8%;
@@ -69,7 +69,7 @@ nav ul li a:hover::after{
     margin-left: -10px;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
-    background: url(/images/Stripe.png);
+    background: url(Stripe.png);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
